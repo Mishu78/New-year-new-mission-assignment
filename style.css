@@ -1,0 +1,85 @@
+
+body {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    font-size: 900px;
+}
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400; 
+}
+
+
+header{
+    background-image: url('/resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+height: 600px;
+border-radius: 16px;
+margin-left:300px;
+margin-right:200px;
+}
+
+.header-class{
+    border-radius: 16px;
+
+background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+}
+
+.header-greeting{
+    width: 259px;
+height: 40px;
+color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+text-align: center;
+margin:71px 531px 16px 517px;
+padding-top:171px
+}
+
+.header-title{
+    width: 632px;
+height: 190px;
+color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+text-align: center;
+margin:0px 344px 177px 344px;
+}
+
+.offers{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 80px;
+font-weight: 700;
+
+margin:120px 550px 48px 725px;
+}
+
+.offers-title{
+  
+
+color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin:0px 600px 16px 700px;
+}
+
+ .offers-description{
+color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+margin:0px 600px 0px 700px;
+}
+
+main .offer-pic{
+    margin-top:0px;
+    padding-left:424px;
+    width: 1000px;
+    padding-bottom: 180px;
+   
+}
